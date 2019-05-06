@@ -1,2 +1,2 @@
 # bs4_starter
-Starter environment based bootstrap 4
+Starter environment for bootstrap 4
